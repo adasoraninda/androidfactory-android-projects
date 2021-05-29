@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Senya Epoxy</string>
+    <string name="location">Location</string>
+    <string name="empty_list">Empty List</string>
+</resources>
